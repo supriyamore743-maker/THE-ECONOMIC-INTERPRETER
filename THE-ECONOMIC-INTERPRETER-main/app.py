@@ -5,7 +5,7 @@ A beginner-friendly data science application that helps users understand
 the relationship between macroeconomic indicators (inflation, unemployment,
 GDP growth) and economic news.
 
-Author: Aryan Rane
+Author: Supriya More
 License: Academic / Educational
 """
 
