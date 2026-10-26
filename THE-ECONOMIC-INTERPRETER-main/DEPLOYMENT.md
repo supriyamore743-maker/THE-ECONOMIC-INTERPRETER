@@ -13,7 +13,7 @@ Because this project is submitted for academic evaluation, it is configured with
 ```text
                                ┌─────────────────────────────────────────────────────────────┐
                                │                    GitHub Repository                        │
-                               │        AryanRanebit/THE-ECONOMIC-INTERPRETER                │
+                               │        SupriyaMorebit/THE-ECONOMIC-INTERPRETER                │
                                └──────────────────────────────┬──────────────────────────────┘
                                                               │
                               ┌───────────────────────────────┴──────────────────────────────┐
@@ -120,7 +120,7 @@ To experience the full interactive dashboard with Plotly charts and live sliders
 ### Step 2: Create New App
 1. Click **"Create app"** or **"New app"**.
 2. Fill in the repository details:
-   - **Repository:** `AryanRanebit/THE-ECONOMIC-INTERPRETER`
+   - **Repository:** `SupriyaMorebit/THE-ECONOMIC-INTERPRETER`
    - **Branch:** `main`
    - **Main file path:** `app.py`
    - **App URL (optional):** Choose a custom subdomain (e.g., `economic-interpreter.streamlit.app`).
