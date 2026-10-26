@@ -95,7 +95,7 @@ THE-ECONOMIC-INTERPRETER/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AryanRanebit/THE-ECONOMIC-INTERPRETER.git
+git clone https://github.com/SupriyaMorebit/THE-ECONOMIC-INTERPRETER.git
 cd THE-ECONOMIC-INTERPRETER
 ```
 
