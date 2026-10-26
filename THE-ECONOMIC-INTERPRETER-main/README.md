@@ -169,6 +169,6 @@ The Economic Interpreter is built specifically to deploy seamlessly on **Streaml
 
 ## 📜 Academic Attribution & License
 
-- **Author:** Aryan Rane
+- **Author:** Supriya More
 - **Academic Context:** Developed as an educational data science application to demystify macroeconomic relationships.
 - **License:** Open Source under the MIT License.
